@@ -10,7 +10,7 @@
 .cabecalho{width: 100%; float: left; padding: 5px 5%;
     background-color: #13c7ae;}
     .logo a {width: 210px; height: 48px; float: left;
-    background: url(../img/logo.png) no-repeat; font-size: 0;}
+    background: url(img/logo.png) no-repeat; font-size: 0;}
     .cabecalho form{width: 30%; float: right;}
     .cabecalho input[type="text"] {width:85%;float: left;
     padding:15px 10px; border-radius:5px 0 0 5px;}
